@@ -1,0 +1,30 @@
+.projectBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    background-color: #eeb9ff;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #caccb6;
+}
+
+.btn {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    background-color: #f8ff3d;
+}
+
+.projectBlock h3 {
+    background-color: #d36d00;
+}
+

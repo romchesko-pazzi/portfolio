@@ -1,0 +1,25 @@
+.footerBlock {
+    min-height: 20vh;
+    background-color: #91eaff;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: start;
+}
+
+.contacts {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+    background-color: #caccb6;
+}
+
+.contact {
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+}

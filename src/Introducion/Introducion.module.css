@@ -1,0 +1,19 @@
+.introducionBlock {
+    height: 100vh;
+    background-color: #d36d00;
+}
+
+.introducionText {
+    background-color: #7d7dff;
+    width: 300px;
+}
+
+.introducionPhoto {
+    background-color: yellow;
+    width: 300px;
+    height: 400px;
+}
+
+.introducionText span, h1 {
+    background-color: #50ef00;
+}
